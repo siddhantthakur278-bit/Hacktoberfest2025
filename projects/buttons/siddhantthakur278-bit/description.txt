@@ -1,0 +1,27 @@
+## Feature / Enhancement
+
+Added a **dynamic button collection** with:
+- 10+ animated, interactive buttons
+- Font Awesome icons integrated for each button
+- Micro-animations: bounce, rotate, tilt, shimmer
+- Ripple effect on click
+- Dark/Light theme toggle with localStorage support
+- Random gradient backgrounds on page load
+- Fully responsive layout for mobile & desktop
+- Accessibility improvements with aria-labels
+
+This PR enhances UI/UX and provides a ready-to-use interactive component library.
+
+---
+
+### Preview / Demo
+Include screenshots or GIFs of buttons in action here.
+
+---
+
+### Checklist
+- [x] Buttons functional & responsive
+- [x] Animations smooth
+- [x] Theme toggle works
+- [x] Code formatted & commented
+- [x] README updated
